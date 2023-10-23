@@ -1,2 +1,0 @@
-Libraries Required: streamlit, pandas, numpy, scikit-learn
-Dataset : given in the repository
